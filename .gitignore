@@ -1,0 +1,7 @@
+node_modules/
+build/
+
+# Ignore all dotfiles/dotfolders, then whitelist specific ones
+.*
+!.gitignore
+!.github
