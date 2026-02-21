@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-auction",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "description": "MCP server for dedicated server auctions and listings",
   "type": "module",
   "main": "build/index.js",
